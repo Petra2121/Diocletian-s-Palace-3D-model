@@ -5,4 +5,4 @@ Diocletian's Palace is an ancient palace built for the Roman emperor Diocletian 
 
 The 3D model is made as shown in E. Herbranda painting Reconstruction of Diocletian's Palace in its original appearance upon completion in AD 305.
 
-![alt text](https://github.com/Petra2121/Diocletian-s-Palace-3D-model/blob/master/Model images/render.png?raw=true)
+![alt text](https://github.com/Petra2121/Diocletian-s-Palace-3D-model/blob/main/render.png?raw=true)
