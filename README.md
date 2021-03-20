@@ -5,7 +5,9 @@ Diocletian's Palace is an ancient palace built for the Roman emperor Diocletian 
 
 ![alt text](https://github.com/Petra2121/Diocletian-s-Palace-3D-model/blob/main/render.png?raw=true)
 
-The 3D model is made as shown in E. Herbranda's painting "Reconstruction of Diocletian's Palace" in its original appearance upon completion in AD 305.
+The 3D model is made as shown in E. Herbrand's painting "Reconstruction of Diocletian's Palace" in its original appearance upon completion in AD 305.
+<p align="center">
+  
 ![alt text](https://github.com/Petra2121/Diocletian-s-Palace-3D-model/blob/main/Model-images/original.jpg?raw=true)
 
 ![alt text](https://github.com/Petra2121/Diocletian-s-Palace-3D-model/blob/main/Model-images/3.png?raw=true)
@@ -28,3 +30,5 @@ Each wall has a gate at its centre that's named after a metal: the northern Gold
 ![alt text](https://github.com/Petra2121/Diocletian-s-Palace-3D-model/blob/main/Model-images/14.png?raw=true)
 ![alt text](https://github.com/Petra2121/Diocletian-s-Palace-3D-model/blob/main/Model-images/15.png?raw=true)
 ![alt text](https://github.com/Petra2121/Diocletian-s-Palace-3D-model/blob/main/Model-images/6.png?raw=true)
+
+</p>
